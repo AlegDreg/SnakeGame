@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Snake/1.0.0": {
+        "dependencies": {
+          "SnakeEngine": "1.0.0"
+        },
+        "runtime": {
+          "Snake.dll": {}
+        }
+      },
+      "SnakeEngine/1.0.0": {
+        "runtime": {
+          "SnakeEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnakeEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

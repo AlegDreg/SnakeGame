@@ -1,0 +1,11 @@
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\bin\Debug\net6.0\SnakeEngine.deps.json
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\bin\Debug\net6.0\SnakeEngine.dll
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\bin\Debug\net6.0\SnakeEngine.pdb
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.AssemblyInfoInputs.cache
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.AssemblyInfo.cs
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.csproj.CoreCompileInputs.cache
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.dll
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\refint\SnakeEngine.dll
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\SnakeEngine.pdb
+C:\Users\LisoOA\source\repos\Snake\SnakeEngine\obj\Debug\net6.0\ref\SnakeEngine.dll
